@@ -12,4 +12,4 @@ My Github page is https://github.com/EthanJ1226.
 
 * Lab 5 Part 1 was another lab with similar qualities to lab 3, so it was one of my favorites again. This lab allowed me to understand how to define a function effectively with a formula. It was also fun to code test as it helped me understand arguments. 
 
-*Lab 7 Part 1 is the last lab that I would consider to be my “favorite.” This was the first lab that I struggled with, which adds to why I liked it so much. It gave me room to think outside the box and understand how to otrganize the if statements. 
+* Lab 7 Part 1 is the last lab that I would consider to be my “favorite.” This was the first lab that I struggled with, which adds to why I liked it so much. It gave me room to think outside the box and understand how to otrganize the if statements. 
